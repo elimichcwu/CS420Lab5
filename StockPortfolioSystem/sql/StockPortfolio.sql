@@ -159,7 +159,6 @@ INSERT INTO TradeTransaction (AccountID, StockID, TradeDate, TradeType, Quantity
 
 -- =====================================================
 -- TEST SELECTS
--- These help you confirm the data loaded correctly
 -- =====================================================
 
 SELECT * FROM Investor;
